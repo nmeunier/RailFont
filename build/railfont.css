@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "railfont";
-	src: url("railfont.eot?6f8f22d07349bec27ad1ac670a7ce803?#iefix") format("embedded-opentype"),
-url("railfont.woff2?6f8f22d07349bec27ad1ac670a7ce803") format("woff2"),
-url("railfont.woff?6f8f22d07349bec27ad1ac670a7ce803") format("woff"),
-url("railfont.ttf?6f8f22d07349bec27ad1ac670a7ce803") format("truetype"),
-url("railfont.svg?6f8f22d07349bec27ad1ac670a7ce803#railfont") format("svg");
+	src: url("railfont.eot?7828317aad72a5930631c6be902e9bb2?#iefix") format("embedded-opentype"),
+url("railfont.woff2?7828317aad72a5930631c6be902e9bb2") format("woff2"),
+url("railfont.woff?7828317aad72a5930631c6be902e9bb2") format("woff"),
+url("railfont.ttf?7828317aad72a5930631c6be902e9bb2") format("truetype"),
+url("railfont.svg?7828317aad72a5930631c6be902e9bb2#railfont") format("svg");
 }
 
 .rf {

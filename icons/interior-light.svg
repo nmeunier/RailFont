@@ -9,73 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="211.66667mm"
-   height="211.66667mm"
-   viewBox="0 0 211.66667 211.66667"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
    version="1.1"
    id="svg8"
-   sodipodi:docname="Interior_Light.svg"
+   sodipodi:docname="interior-light.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <defs
-     id="defs2">
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect844"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 400.00001 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="800.00002 : 400.00001 : 1"
-       inkscape:persp3d-origin="400.00001 : 266.66668 : 1"
-       id="perspective817" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect844-1"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect844-1-0"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect844-1-8"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect844-1-8-1"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -83,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="275.47287"
-     inkscape:cy="416.41472"
+     inkscape:zoom="2.8"
+     inkscape:cx="618.61907"
+     inkscape:cy="584.0894"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -139,10 +81,10 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-85.333369)">
+     transform="translate(0,2.9999592)">
     <g
        id="g956"
-       transform="matrix(0.26458284,0,0,0.26458284,1.9720104e-4,205.81631)">
+       transform="matrix(0.37487031,0,0,0.37487031,0.05187581,167.75612)">
       <g
          id="g844">
         <path
