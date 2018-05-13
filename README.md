@@ -13,7 +13,7 @@ Version: 1.0.0
 <link rel="stylesheet" type="text/css" href="railfont.css">
 ```
 
-- Choose the desired icon from [exemple page](./build/railfont.html) and use it in your web page like this :
+- Choose the desired icon from [exemple page](http://htmlpreview.github.io/?https://github.com/nmeunier/RailFont/blob/master/build/railfont.html) and use it in your web page like this :
 ```
 <span class="rf rf-headlight"></span>
 ```
