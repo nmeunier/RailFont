@@ -25,6 +25,19 @@ require('icon.font')({ // Default options
         [0xe001, Infinity]
     ]
 }).then(function(){
-    // Finished
-    console.log('Rail font generated successfully !');
+    // Font generated, create index file
+    fs.readdir('./icons', function(err, items) {
+        let content = {};
+        let fileFilter = /\.svg$/;
+        for (var i=0; i<items.length; i++) {
+            if(fileFilter.test(items[i])){
+                let name = items[i].replace('.svg', '');
+                content[name] = 'rf-' + name;
+            }
+        }
+        fs.writeFile('./build/icon-list.json',JSON.stringify(content),{encoding:'utf8',flag:'w'}, ()=>{
+            console.log('Rail font generated successfully !');
+        })
+    });
+
 })

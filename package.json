@@ -1,6 +1,6 @@
 {
   "name": "railfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Railway icon font",
   "main": "index.js",
   "scripts": {

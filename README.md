@@ -2,7 +2,7 @@
 
 Railway icon set font.
 
-Version: 1.0.0
+Version: 1.0.1
 
 ## How to use
 
