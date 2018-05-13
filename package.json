@@ -1,0 +1,17 @@
+{
+  "name": "railfont",
+  "version": "1.0.0",
+  "description": "Railway icon font",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: use \"npm run generate\" for build font\" && exit",
+    "generate": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Meunier",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "icon.font": "^1.1.0"
+  },
+  "dependencies": {}
+}

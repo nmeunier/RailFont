@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>{{fontName}}</title>
+	<style>
+		.icon-item{
+			width: 200px;
+			border: solid 1px #555;
+			display: inline-block;
+			padding: 20px 10px 10px 10px;
+			margin: 5px;
+			text-align: center;
+		}
+		
+		.css-desc {
+			font-size: 12px;
+			color: #999;
+			margin: 10px 0 5px 0;
+		}
+
+		h2 {
+			font-size: 14px;
+			text-align: center;
+			font-weight: normal;
+			margin: 0 0 10px 0;
+		}
+
+		.icon-item span {
+			font-size: 32px;
+		}
+
+		.container{
+			width: 80%;
+			margin: 10px auto;
+		}
+		
+		h1{
+			text-transform: capitalize;
+			color:#555;
+		}
+
+		body {
+			font-family: Verdana, Geneva, Tahoma, sans-serif;
+		}
+
+		{{{styles}}}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>{{fontName}}</h1>
+		{{#each iconValues}}
+		<div class="icon-item">
+			<span class="{{../baseClassname}} {{../baseClassname}}-{{@key}}"></span>
+			<p class="css-desc">CSS classname :</p>
+			<h2>{{../baseClassname}}-{{@key}}</h2>
+		</div>
+
+		{{/each}}
+	</div>
+</body>
+</html>
