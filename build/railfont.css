@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "railfont";
-	src: url("railfont.eot?7828317aad72a5930631c6be902e9bb2?#iefix") format("embedded-opentype"),
-url("railfont.woff2?7828317aad72a5930631c6be902e9bb2") format("woff2"),
-url("railfont.woff?7828317aad72a5930631c6be902e9bb2") format("woff"),
-url("railfont.ttf?7828317aad72a5930631c6be902e9bb2") format("truetype"),
-url("railfont.svg?7828317aad72a5930631c6be902e9bb2#railfont") format("svg");
+	src: url("railfont.eot?bd3b2f0a4b44a6a5f3555117867b83fa?#iefix") format("embedded-opentype"),
+url("railfont.woff2?bd3b2f0a4b44a6a5f3555117867b83fa") format("woff2"),
+url("railfont.woff?bd3b2f0a4b44a6a5f3555117867b83fa") format("woff"),
+url("railfont.ttf?bd3b2f0a4b44a6a5f3555117867b83fa") format("truetype"),
+url("railfont.svg?bd3b2f0a4b44a6a5f3555117867b83fa#railfont") format("svg");
 }
 
 .rf {
@@ -69,5 +69,13 @@ url("railfont.svg?7828317aad72a5930631c6be902e9bb2#railfont") format("svg");
 
 .rf-turnout-symmetric-right:before {
 	content: "\e00e";
+}
+
+.rf-direction-forward:before {
+	content: "\e00f";
+}
+
+.rf-direction-reverse:before {
+	content: "\e010";
 }
 
