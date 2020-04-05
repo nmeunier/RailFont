@@ -1,5 +1,5 @@
 {
-  "lastCodepoint": 57360,
+  "lastCodepoint": 57366,
   "icons": {
     "headlight": 57345,
     "interior-light": 57346,
@@ -16,6 +16,12 @@
     "turnout-symmetric-none": 57357,
     "turnout-symmetric-right": 57358,
     "direction-forward": 57359,
-    "direction-reverse": 57360
+    "direction-reverse": 57360,
+    "turnout-single-cross-left-cross": 57361,
+    "turnout-single-cross-left-none": 57362,
+    "turnout-single-cross-left-straight": 57363,
+    "turnout-single-cross-right-cross": 57364,
+    "turnout-single-cross-right-none": 57365,
+    "turnout-single-cross-right-straight": 57366
   }
 }
